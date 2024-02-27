@@ -3,6 +3,13 @@
 
 AutoHamming is a Rust crate that ensures the integrity of your data by automatically applying Hamming code protection. With AutoHamming, every variable is seamlessly encoded with Hamming code upon assignment and decoded upon access, providing error detection and correction without any manual intervention.
 
+## Use cases
+
+- Low earth orbit
+- Deep space
+
+Protection against Single Event Upsets & ionizing particle (ions, electrons, photons...) 
+
 ## Features
 
 - Automatic error correction and detection for your data.
