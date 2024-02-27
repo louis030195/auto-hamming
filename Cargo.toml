@@ -1,0 +1,8 @@
+[package]
+name = "auto_hamming"
+version = "0.1.0"
+authors = ["louis030195 <hi@louis030195.com>"]
+edition = "2024"
+
+
+[dependencies]
